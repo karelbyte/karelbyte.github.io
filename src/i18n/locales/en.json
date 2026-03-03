@@ -1,0 +1,149 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "experience": "Experience",
+    "skills": "Skills",
+    "certifications": "Certifications",
+    "projects": "Projects",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Karel Puerto Díaz",
+    "subtitle": "Sr. FullStack Developer | AI & Cloud Specialist | Mexico",
+    "description": "Specialist in SaaS platforms, payment systems, AWS serverless architectures, LLMs and multi-agent AI systems",
+    "contactBtn": "Contact Me",
+    "cvBtn": "Resume"
+  },
+  "about": {
+    "title": "About Me",
+    "feature1Title": "SaaS Architecture",
+    "feature1Desc": "Scalable multi-tenant platforms",
+    "feature2Title": "AWS & Serverless",
+    "feature2Desc": "Lambda, ECS, S3, RDS, API Gateway",
+    "feature3Title": "Technical Leadership",
+    "feature3Desc": "Team management and mentoring",
+    "paragraph1": "Senior FullStack Developer with extensive experience in the full lifecycle of application development and IT solutions. Specialist in creating SaaS platforms, payment systems, and complex integrations with payment gateways and third-party APIs.",
+    "paragraph2": "Expert in serverless architectures with AWS (Lambda, ECS, S3, RDS, API Gateway), development of systems with LLMs (GPT-4, Claude), implementation of RAG (Retrieval Augmented Generation), and orchestration of autonomous agents with LangChain and LangGraph.",
+    "paragraph3": "Technical leader with experience in team management, database optimization, and improving business productivity. Background in Mathematics - Computer Science with international experience in Cuba and Mexico."
+  },
+  "experience": {
+    "title": "Experience",
+    "yaydoo": {
+      "title": "Sr. FullStack Developer",
+      "company": "Yaydoo SAPI DE CV",
+      "period": "2022 - 2025",
+      "description": "Leadership in the development of the company's ecosystem and payment platform.",
+      "achievements": ["Payment platform", "Business ecosystem", "Technical leadership"]
+    },
+    "guros": {
+      "title": "Sr. FullStack Developer",
+      "company": "Guros",
+      "period": "2021 - 2022",
+      "description": "Comprehensive development of the insurance platform using team-based methodologies.",
+      "achievements": ["Insurance platform", "Teamwork", "Agile methodologies"]
+    },
+    "webforceha": {
+      "title": "Sr. FullStack Developer",
+      "company": "WebforceHa",
+      "period": "2019 - 2021",
+      "description": "Architecture and development of corporate SaaS platform. Implementation of tenant core and integration with payment gateways and REST APIs.",
+      "achievements": ["Multi-tenant SaaS", "Payment gateways", "ActiveCampaign", "Zapier", "Maropost"]
+    },
+    "cyberline": {
+      "title": "Sr. FullStack Developer (Team Lead)",
+      "company": "Cyberline Technologies",
+      "period": "2016 - 2019",
+      "description": "Team management for the development and continuous maintenance of the company's CRM. Supervision of institutional web portal development.",
+      "achievements": ["Team management", "Enterprise CRM", "Web portal"]
+    },
+    "rsantos": {
+      "title": "Mid. FullStack Developer",
+      "company": "Grupo RSantos",
+      "period": "2011 - 2016",
+      "description": "Development and implementation of custom applications and IT systems administration. Backup and supervision of critical databases in MS SQL Server.",
+      "achievements": ["Custom applications", "MS SQL Server", "Systems administration"]
+    }
+  },
+  "skills": {
+    "title": "Technical Skills",
+    "languages": "Languages",
+    "frontend": "Frontend",
+    "backend": "Backend",
+    "databases": "Databases",
+    "aws": "AWS Cloud",
+    "ai": "AI & LLMs",
+    "agents": "AI Agents",
+    "devops": "DevOps & Tools",
+    "testing": "Testing & Quality"
+  },
+  "certifications": {
+    "title": "Certifications & Specialties",
+    "aws": {
+      "title": "AWS Solutions Architect",
+      "issuer": "Amazon Web Services",
+      "description": "Design of scalable and secure architectures on AWS"
+    },
+    "llm": {
+      "title": "LLM & AI Engineering",
+      "issuer": "OpenAI / Anthropic",
+      "description": "Development with GPT-4, Claude and RAG systems"
+    },
+    "agents": {
+      "title": "Multi-Agent Systems",
+      "issuer": "LangChain Academy",
+      "description": "Orchestration of autonomous agents with LangGraph"
+    },
+    "security": {
+      "title": "Cloud Security",
+      "issuer": "AWS / GCP",
+      "description": "Security and compliance in cloud environments"
+    },
+    "stat1": "Years of Experience",
+    "stat2": "Completed Projects",
+    "stat3": "Mastered Technologies"
+  },
+  "projects": {
+    "title": "Projects",
+    "yaydoo": {
+      "title": "Payment Platform - Yaydoo",
+      "description": "Complete enterprise payment platform ecosystem with payment gateway integrations and serverless architecture on AWS."
+    },
+    "agents": {
+      "title": "Multi-Agent AI System",
+      "description": "Orchestration of autonomous agents with LangGraph and GPT-4 for business process automation and data analysis."
+    },
+    "saas": {
+      "title": "Multi-tenant SaaS Platform",
+      "description": "Architecture and development of corporate SaaS platform with tenant core, integrations with ActiveCampaign, Zapier and deployment on AWS ECS."
+    },
+    "chatbot": {
+      "title": "RAG Chatbot with LLMs",
+      "description": "Enterprise chatbot system with Retrieval Augmented Generation using embeddings, vector databases and Claude/GPT-4."
+    },
+    "serverless": {
+      "title": "AWS Serverless Infrastructure",
+      "description": "Complete serverless architecture with Lambda, API Gateway, DynamoDB, SQS and CloudWatch for high availability applications."
+    },
+    "crm": {
+      "title": "CRM with Predictive AI",
+      "description": "Enterprise CRM with AI capabilities for sales prediction, sentiment analysis and automatic recommendations."
+    },
+    "code": "Code",
+    "demo": "Demo"
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Let's Talk",
+    "description": "Do you have a project in mind? I'd love to hear about it. Contact me and let's work together.",
+    "email": "Email",
+    "phone": "Phone",
+    "location": "Location",
+    "locationValue": "Mexico",
+    "namePlaceholder": "Name",
+    "emailPlaceholder": "Email",
+    "messagePlaceholder": "Message",
+    "sendBtn": "Send Message",
+    "footer": "© 2026 Karel Puerto Díaz. All rights reserved."
+  }
+}

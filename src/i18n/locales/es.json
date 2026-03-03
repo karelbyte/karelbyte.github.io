@@ -1,0 +1,149 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "about": "Sobre mí",
+    "experience": "Experiencia",
+    "skills": "Habilidades",
+    "certifications": "Certificaciones",
+    "projects": "Proyectos",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "title": "Karel Puerto Díaz",
+    "subtitle": "Sr. FullStack Developer | AI & Cloud Specialist | México",
+    "description": "Especialista en plataformas SaaS, sistemas de cobro, arquitecturas AWS serverless, LLMs y sistemas multi-agente con IA",
+    "contactBtn": "Contáctame",
+    "cvBtn": "CV"
+  },
+  "about": {
+    "title": "Sobre Mí",
+    "feature1Title": "Arquitectura SaaS",
+    "feature1Desc": "Plataformas escalables multi-tenant",
+    "feature2Title": "AWS & Serverless",
+    "feature2Desc": "Lambda, ECS, S3, RDS, API Gateway",
+    "feature3Title": "Liderazgo Técnico",
+    "feature3Desc": "Gestión de equipos y mentoría",
+    "paragraph1": "Desarrollador Senior FullStack con amplia trayectoria en el ciclo de vida de desarrollo de aplicaciones y soluciones informáticas. Especialista en la creación de plataformas SaaS, sistemas de cobro e integraciones complejas con pasarelas de pago y APIs de terceros.",
+    "paragraph2": "Experto en arquitecturas serverless con AWS (Lambda, ECS, S3, RDS, API Gateway), desarrollo de sistemas con LLMs (GPT-4, Claude), implementación de RAG (Retrieval Augmented Generation) y orquestación de agentes autónomos con LangChain y LangGraph.",
+    "paragraph3": "Líder técnico con experiencia en gestión de equipos, optimización de bases de datos y mejora de productividad empresarial. Formación en Matemáticas - Computación con experiencia internacional en Cuba y México."
+  },
+  "experience": {
+    "title": "Experiencia",
+    "yaydoo": {
+      "title": "Sr. FullStack Developer",
+      "company": "Yaydoo SAPI DE CV",
+      "period": "2022 - 2025",
+      "description": "Liderazgo en el desarrollo del ecosistema y la plataforma de cobros de la empresa.",
+      "achievements": ["Plataforma de cobros", "Ecosistema empresarial", "Liderazgo técnico"]
+    },
+    "guros": {
+      "title": "Sr. FullStack Developer",
+      "company": "Guros",
+      "period": "2021 - 2022",
+      "description": "Desarrollo integral de la plataforma de seguros mediante metodologías de trabajo en equipo.",
+      "achievements": ["Plataforma de seguros", "Trabajo en equipo", "Metodologías ágiles"]
+    },
+    "webforceha": {
+      "title": "Sr. FullStack Developer",
+      "company": "WebforceHa",
+      "period": "2019 - 2021",
+      "description": "Arquitectura y desarrollo de plataforma SaaS corporativa. Implementación del core tenant e integración con pasarelas de pago y API REST.",
+      "achievements": ["SaaS Multi-tenant", "Pasarelas de pago", "ActiveCampaign", "Zapier", "Maropost"]
+    },
+    "cyberline": {
+      "title": "Sr. FullStack Developer (Team Lead)",
+      "company": "Cyberline Technologies",
+      "period": "2016 - 2019",
+      "description": "Gestión de equipo para el desarrollo y mantenimiento continuo del CRM de la empresa. Supervisión del desarrollo del portal web institucional.",
+      "achievements": ["Gestión de equipo", "CRM empresarial", "Portal web"]
+    },
+    "rsantos": {
+      "title": "Mid. FullStack Developer",
+      "company": "Grupo RSantos",
+      "period": "2011 - 2016",
+      "description": "Desarrollo e implementación de aplicaciones a la medida y administración de sistemas informáticos. Respaldo y supervisión de bases de datos críticas en MS SQL Server.",
+      "achievements": ["Aplicaciones a medida", "MS SQL Server", "Administración de sistemas"]
+    }
+  },
+  "skills": {
+    "title": "Habilidades Técnicas",
+    "languages": "Lenguajes",
+    "frontend": "Frontend",
+    "backend": "Backend",
+    "databases": "Bases de Datos",
+    "aws": "AWS Cloud",
+    "ai": "AI & LLMs",
+    "agents": "Agentes IA",
+    "devops": "DevOps & Tools",
+    "testing": "Testing & Quality"
+  },
+  "certifications": {
+    "title": "Certificaciones & Especialidades",
+    "aws": {
+      "title": "AWS Solutions Architect",
+      "issuer": "Amazon Web Services",
+      "description": "Diseño de arquitecturas escalables y seguras en AWS"
+    },
+    "llm": {
+      "title": "LLM & AI Engineering",
+      "issuer": "OpenAI / Anthropic",
+      "description": "Desarrollo con GPT-4, Claude y sistemas RAG"
+    },
+    "agents": {
+      "title": "Multi-Agent Systems",
+      "issuer": "LangChain Academy",
+      "description": "Orquestación de agentes autónomos con LangGraph"
+    },
+    "security": {
+      "title": "Cloud Security",
+      "issuer": "AWS / GCP",
+      "description": "Seguridad y compliance en entornos cloud"
+    },
+    "stat1": "Años de Experiencia",
+    "stat2": "Proyectos Completados",
+    "stat3": "Tecnologías Dominadas"
+  },
+  "projects": {
+    "title": "Proyectos",
+    "yaydoo": {
+      "title": "Plataforma de Cobros - Yaydoo",
+      "description": "Ecosistema completo de plataforma de cobros empresarial con integraciones de pasarelas de pago y arquitectura serverless en AWS."
+    },
+    "agents": {
+      "title": "Sistema Multi-Agente IA",
+      "description": "Orquestación de agentes autónomos con LangGraph y GPT-4 para automatización de procesos empresariales y análisis de datos."
+    },
+    "saas": {
+      "title": "Plataforma SaaS Multi-tenant",
+      "description": "Arquitectura y desarrollo de plataforma SaaS corporativa con core tenant, integraciones con ActiveCampaign, Zapier y despliegue en AWS ECS."
+    },
+    "chatbot": {
+      "title": "Chatbot RAG con LLMs",
+      "description": "Sistema de chatbot empresarial con Retrieval Augmented Generation usando embeddings, vector databases y Claude/GPT-4."
+    },
+    "serverless": {
+      "title": "Infraestructura AWS Serverless",
+      "description": "Arquitectura serverless completa con Lambda, API Gateway, DynamoDB, SQS y CloudWatch para aplicaciones de alta disponibilidad."
+    },
+    "crm": {
+      "title": "CRM con IA Predictiva",
+      "description": "CRM empresarial con capacidades de IA para predicción de ventas, análisis de sentimientos y recomendaciones automáticas."
+    },
+    "code": "Código",
+    "demo": "Demo"
+  },
+  "contact": {
+    "title": "Contacto",
+    "subtitle": "Hablemos",
+    "description": "¿Tienes un proyecto en mente? Me encantaría escuchar sobre él. Contáctame y trabajemos juntos.",
+    "email": "Email",
+    "phone": "Teléfono",
+    "location": "Ubicación",
+    "locationValue": "México",
+    "namePlaceholder": "Nombre",
+    "emailPlaceholder": "Email",
+    "messagePlaceholder": "Mensaje",
+    "sendBtn": "Enviar Mensaje",
+    "footer": "© 2026 Karel Puerto Díaz. Todos los derechos reservados."
+  }
+}
