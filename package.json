@@ -2,7 +2,7 @@
   "name": "karel-portfolio",
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://karelbyte.github.io/personalpage",
+  "homepage": "https://karelbyte.github.io",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
